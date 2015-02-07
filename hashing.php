@@ -23,7 +23,6 @@ function myUnhash ($h)
 	{
 	    	$sletterPos = $h- ( floor($h/37)*37);
 			$mletters 	= substr($letters,$sletterPos,1) . $mletters;
-			echo "".$mletters." - ".$h." - ".$sletterPos."<br>";
 			$h  		= ( floor($h/37)) ; 
 	
 	} while ($h>7);
