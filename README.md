@@ -1,0 +1,1 @@
+My boss saw this hashing question on a companies website. It was supposed to be completed and submitted by interested job applicants. I chose the code it in php
