@@ -30,10 +30,9 @@ function myUnhash ($h)
 	return $mletters ;
 } 
 
-//echo myHash('spiders');
+
 
 echo myUnHash(952844224293137);
 
 
 
-?>
